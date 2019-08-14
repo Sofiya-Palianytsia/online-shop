@@ -54,5 +54,12 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Bridge bike",
+        "image": "bike.jpg",
+        "description": "Best bike ever",
+        "price": 10000.99
     }
 ]
